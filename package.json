@@ -13,11 +13,12 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "4.19.1",
-    "serve": "6.5.6",
+    "serve": "^6.5.6",
     "uglify-es": "3.3.9"
   },
   "dependencies": {
-    "browserfy": "1.0.0",
+    "browserify": "^1.18.0",
+    "npm": "^6.0.0",
     "typescript": "2.8.3"
   }
 }
